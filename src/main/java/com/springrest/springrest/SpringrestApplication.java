@@ -10,5 +10,8 @@ public class SpringrestApplication {
 		SpringApplication.run(SpringrestApplication.class, args);
 		
 		//test code
+		
+		System.out.println("test code");
+	
 	}
 }
