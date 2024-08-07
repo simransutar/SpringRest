@@ -11,6 +11,7 @@ public class SpringrestApplication {
 		
 		//test code
 		
+		//for testing
 		System.out.println("test code");
 	
 	}
