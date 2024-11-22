@@ -40,7 +40,7 @@ public class Course {
 	public void setDescription(String description) {
 		this.description = description;
 	}
-	
+	 
 	@Override
 	public String toString() {
 		return "Course [id=" + id + ", title=" + title + ", description=" + description + "]";
